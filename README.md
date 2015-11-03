@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+<p>My first repository</p>
+<p>Figuring out this GitHub stuff is cool.</p>
